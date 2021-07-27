@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>datas.txt</file>
+        <file>datas-rgb.txt</file>
+    </qresource>
+</RCC>
