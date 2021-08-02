@@ -11,3 +11,11 @@ Usage:
 3.Build&Run
 
 有问题可以发issue，看到应该会回-_-
+
+
+# 效果示例 （地名是乱标的）
+![image.png](https://i.loli.net/2021/08/02/jzKfaLB5uEQISnA.png)
+
+查找最短路径
+
+![image.png](https://i.loli.net/2021/08/02/E34aNYT8Kj5wvPF.png)
